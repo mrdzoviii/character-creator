@@ -6,3 +6,12 @@
   text-align: center;
 }
 
+.footer a {
+  color: inherit;
+  text-decoration: underline;
+}
+
+.footer a:hover,
+.footer a:focus {
+  color: hsl(0deg, 0%, 80%);
+}
